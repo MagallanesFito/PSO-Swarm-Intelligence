@@ -8,3 +8,7 @@ The problem is given in the book __Programming Collective Intelligence__ by Toby
 # The paper
 
 This was a scholar project, the lab report is in __report.pdf__ (spanish version). 
+
+# The project
+
+The code folder contains __main.py__ this is the file where all the magic happens. __schedule.txt__ this file contains the dataset provided by the book. 
