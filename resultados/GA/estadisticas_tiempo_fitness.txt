@@ -1,0 +1,7 @@
+Fitness promedio 2544.466667 : 
+ Desviación estandar: 187.606456
+----------
+Tiempo de ejecución promedio: 
+
+Tiempo promedio 43.552793 : 
+ Desviación estándar: 1.525574
