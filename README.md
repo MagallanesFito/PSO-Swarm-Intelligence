@@ -7,8 +7,8 @@ The problem is given in the book __Programming Collective Intelligence__ by Toby
 
 # The paper
 
-This was a scholar project, the lab report is in __report.pdf__ (In spanish). 
+This was a scholar project, the report is in __report.pdf__ (In spanish). 
 
 # The project
 
-The code folder contains __main.py__ this is the file where all the magic happens. __schedule.txt__ this file contains the dataset provided by the book. 
+The code folder contains `main.py`, this is the file where all the magic happens, the remaining files are for debugging and testing. Main file has psooptimize() fucntion, this is a naive version of MBPSO, didn't get good results. The one that makes the job is `kbpsooptimize()` which is adapted for Binary PSO. The code section which calls the function looks messy because it is coded for making a grid parameter search and print results, graphs and stuff like that,  you can comment this part and just call the function. The file `schedule.txt` contains the dataset provided by the book. 
