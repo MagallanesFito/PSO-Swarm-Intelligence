@@ -1,5 +1,5 @@
 # PSO-Swarm-Intelligence
-A modified version of particle swarm optimization (MPSO) solving an assigment problem in a reference book.
+A modified version of particle swarm optimization (MPSO) solving a scheduling problem in a reference book.
 
 # The problem
 
